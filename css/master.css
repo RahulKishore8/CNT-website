@@ -52,4 +52,11 @@
     font-size: 1.7rem;
     font-family: 'Open Sans', sans-serif;
   }
+  .address_contact{
+    padding:0 15%;
+    line-height: 150%;
+    font-size: 1.4rem;
+    font-family: 'Open Sans', sans-serif;
+  }
+
 }
