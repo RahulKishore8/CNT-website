@@ -25,10 +25,12 @@
 
 .impact_list{
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .impact_text{
-  padding: 7% 15%;
+  padding: 7% 5% 7%;
+  font-family: 'Open Sans';
 }
 
 #contact_us{
@@ -42,4 +44,12 @@
 .address_contact{
   padding:0 15%;
   line-height: 150%;
+}
+
+@media (max-width: 1000px){
+  .impact_text{
+    padding: 7% 2% 7%;
+    font-size: 1.3rem;
+    font-family: 'Open Sans', sans-serif;
+  }
 }
