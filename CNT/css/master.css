@@ -1,0 +1,44 @@
+.body{
+  background-color: #bfdcae;
+}
+
+.navbar{
+  background-color: #68b0ab;
+}
+.head_link{
+  font-size: 2rem;
+  margin-right: 50px;
+}
+
+.photos{
+    background-color: #8fc0a9;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.subheading{
+  text-align: center;
+  padding: 60px;
+}
+
+.impact_list{
+  text-align: center;
+}
+
+.impact_text{
+  padding: 7% 15%;
+}
+
+#contact_us{
+    background-color: #bfdcae;
+}
+
+.email:hover{
+  text-decoration: none;
+}
+
+.address_contact{
+  padding:0 15%;
+  line-height: 150%;
+}
