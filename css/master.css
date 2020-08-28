@@ -1,5 +1,6 @@
 .body{
   background-color: #bfdcae;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .navbar{
@@ -26,11 +27,13 @@
 .impact_list{
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+
 }
 
 .impact_text{
-  padding: 7% 5% 7%;
+  padding: 7% 10% 7% 15%;
   font-family: 'Open Sans';
+  text-align: left;
 }
 
 #contact_us{
